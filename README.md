@@ -11,5 +11,5 @@ I build AI-native tools and reproducible research workflows across quantitative 
 - Quantitative Research
 - AI Agents & Harness Systems
 - Full-Stack AI
-- Full-Stack Engineer
+- Full-Stack Engineering
 - Finance Systems
