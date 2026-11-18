@@ -5,3 +5,5 @@
 ## AI × Quant × Finance
 
 I build AI-native tools and reproducible research workflows across quantitative research and financial markets.
+
+Contributions, issues, and pull requests are always welcome. Let's connect, exchange ideas, and build together!
