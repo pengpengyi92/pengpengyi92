@@ -8,4 +8,4 @@ I build AI-native tools and reproducible research workflows across quantitative 
 
 Contributions, issues, and pull requests are always welcome. Let's connect, exchange ideas, and build together!
 
-FYI: Small G is my cat!
+FYI: Small G is my cat!🐱🐱🐱🌃☀️🧶🌙
